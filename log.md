@@ -42,4 +42,9 @@ directory between container and host. Not elegant but it should work._
 
 *TIL* Directories added during docker build can't be changed.
 
+**TODO**:
+
+* Find a way to trigger Ansible from Django Admin
+
+
 **Link to work:** [Settings App](https://github.com/lozadaOmr/ansi-admin/pull/1)
