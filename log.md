@@ -37,7 +37,9 @@ Might need to figure a way to browse filesystems. Given the limitation
 that I'm running the app using Docker which might be problem, since I can't access
 the actual host's filesystem.
 
-A workaround I can think of is to make a  shared
-directory between container and host. Not elegant but it should work.
+_A workaround I can think of is to make a  shared
+directory between container and host. Not elegant but it should work._
+
+*TIL* Directories added during docker build can't be changed.
 
 **Link to work:** [Settings App](https://github.com/lozadaOmr/ansi-admin/pull/1)
