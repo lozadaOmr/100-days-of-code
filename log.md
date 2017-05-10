@@ -9,12 +9,12 @@
 
 **Link to work:** [Settings App](https://github.com/lozadaOmr/ansi-admin/tree/feature/settings-app)
 
-
+---
 ### Day 1: May 10, 2017
 
 **Thoughts:** Missed today. I needed to be accountable to my commitment.
 
-
+---
 ### Day 2: May 11, 2017
 
 **Today's Progress**: Completing the CRUD part of the Settings App.
@@ -30,3 +30,7 @@ storage class.
 
 Thinking of using CharField in the meantime to represent the path.
 Much be nicer if this was properly implemented.
+
+Maybe should not have squash the commits. Also not delete branches.
+
+**Link to work:** [Settings App](https://github.com/lozadaOmr/ansi-admin/pull/1)
