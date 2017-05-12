@@ -62,3 +62,20 @@ I think I would need implement celery.
 
 * [ansi-admin registry](https://hub.docker.com/r/lozadaomr/ansi-admin/tags/)
 * [Ansible Django Integration](https://github.com/lozadaOmr/ansi-admin/tree/feature/django-ansible-integration)
+
+---
+### Day 4: May 13, 2017
+
+**Today's Progress**: Continued working with Django, this time taking a deep dive
+on how to work with Templates, Forms
+
+**Thoughts**: Initially had trouble on how to add custom template in Django Admin.
+
+Initial implementation points to using `os.system`, after some reading I might
+go with using `subprocess`
+
+Thinking of spending the rest of day going through the Django Tutorial.
+
+**Link to work**:
+
+* [Ansible Django Integration](https://github.com/lozadaOmr/ansi-admin/tree/feature/django-ansible-integration)
