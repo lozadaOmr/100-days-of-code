@@ -58,5 +58,7 @@ from Djago Admin
 **Thoughts**: Options that I can further explore Python `os.system` eventually
 I think I would need implement celery.
 
-**Link to work**: [ansi-admin registry](https://hub.docker.com/r/lozadaomr/ansi-admin/tags/)
-[Ansible Django Integration](https://github.com/lozadaOmr/ansi-admin/tree/feature/django-ansible-integration)
+**Links to work**: 
+
+* [ansi-admin registry](https://hub.docker.com/r/lozadaomr/ansi-admin/tags/)
+* [Ansible Django Integration](https://github.com/lozadaOmr/ansi-admin/tree/feature/django-ansible-integration)
