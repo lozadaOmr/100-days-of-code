@@ -48,3 +48,12 @@ directory between container and host. Not elegant but it should work._
 
 
 **Link to work:** [Settings App](https://github.com/lozadaOmr/ansi-admin/pull/1)
+
+---
+### Day 3: May 12, 2017
+
+**Today's Progress**: Made some proof of concept so that Ansible Playbooks 
+from Djago Admin
+
+**Thoughts**: Options that I can further explore Python `os.system` eventually
+I think I would need implement celery.
