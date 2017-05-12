@@ -44,7 +44,7 @@ directory between container and host. Not elegant but it should work._
 
 **TODO**:
 
-* Find a way to trigger Ansible from Django Admin
+_* Find a way to trigger Ansible from Django Admin_
 
 
 **Link to work:** [Settings App](https://github.com/lozadaOmr/ansi-admin/pull/1)
@@ -74,8 +74,20 @@ on how to work with Templates, Forms
 Initial implementation points to using `os.system`, after some reading I might
 go with using `subprocess`
 
+This is one of those moments where you thought implementation would be easy
+
+**BUT NOPE**, stdout is displayed in the logs but getting some error.
+
 Thinking of spending the rest of day going through the Django Tutorial.
 
 **Link to work**:
 
 * [Ansible Django Integration](https://github.com/lozadaOmr/ansi-admin/tree/feature/django-ansible-integration)
+
+**TODO**:
+
+* Improve subprocess call on views.py
+* Might need celery to handle queue
+* Check if this will work - instead of defining a path to where playbooks and configs
+are located; give a defined path instead probably in directory added before container
+builds
