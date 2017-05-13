@@ -67,22 +67,20 @@ I think I would need implement celery.
 ### Day 4: May 13, 2017
 
 **Today's Progress**: Continued working with Django, this time taking a deep dive
-on how to work with Templates, Forms
+on how to work with Templates, Forms. Also renamed Settings App into Ansible.
 
-**Thoughts**: Initially had trouble on how to add custom template in Django Admin.
 
+**Thoughts**: Had trouble on how to add custom template in Django Admin.
 Initial implementation points to using `os.system`, after some reading I might
 go with using `subprocess`
-
 This is one of those moments where you thought implementation would be easy
-
 **BUT NOPE**, stdout is displayed in the logs but getting some error.
-
 Thinking of spending the rest of day going through the Django Tutorial.
 
 **Link to work**:
 
 * [Ansible Django Integration](https://github.com/lozadaOmr/ansi-admin/tree/feature/django-ansible-integration)
+* [Renamed Settings App](https://github.com/lozadaOmr/ansi-admin/pull/3)
 
 **TODO**:
 
