@@ -89,3 +89,14 @@ Thinking of spending the rest of day going through the Django Tutorial.
 * Check if this will work - instead of defining a path to where playbooks and configs
 are located; give a defined path instead probably in directory added before container
 builds
+
+___
+### Day 5: May 14, 2017
+
+**Today's Progress**: Learned about fixtures and added it for Ansible app.
+
+**Thoughts**: Time mostly spent on following Django Polls app tutorial.
+
+**Link to work**:
+
+* [Initial App Fixture](https://github.com/lozadaOmr/ansi-admin/pull/4)
