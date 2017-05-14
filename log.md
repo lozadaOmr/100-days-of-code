@@ -37,14 +37,14 @@ Might need to figure a way to browse filesystems. Given the limitation
 that I'm running the app using Docker which might be problem, since I can't access
 the actual host's filesystem.
 
-_A workaround I can think of is to make a  shared
-directory between container and host. Not elegant but it should work._
+~~A workaround I can think of is to make a  shared
+directory between container and host. Not elegant but it should work.~~
 
 *TIL* Directories added during docker build can't be changed.
 
 **TODO**:
 
-_* Find a way to trigger Ansible from Django Admin_
+- [x] Find a way to trigger Ansible from Django Admin
 
 
 **Link to work:** [Settings App](https://github.com/lozadaOmr/ansi-admin/pull/1)
@@ -84,9 +84,9 @@ Thinking of spending the rest of day going through the Django Tutorial.
 
 **TODO**:
 
-* Improve subprocess call on views.py
-* Might need celery to handle queue
-* Check if this will work - instead of defining a path to where playbooks and configs
+- [ ] Improve subprocess call on views.py
+- [ ] Might need celery to handle queue
+- [x] Check if this will work - instead of defining a path to where playbooks and configs
 are located; give a defined path instead probably in directory added before container
 builds
 
