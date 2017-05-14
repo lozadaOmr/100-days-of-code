@@ -100,3 +100,15 @@ ___
 **Link to work**:
 
 * [Initial App Fixture](https://github.com/lozadaOmr/ansi-admin/pull/4)
+
+___
+### Day 6: May 15, 2017
+
+**Today's Progress**: Updated the container's Ansible to use latest (2.3.0),
+Add a directory where playbooks will be added.
+
+**Thoughts**:
+
+**Link to work**:
+
+* [Playbooks Directory](https://github.com/lozadaOmr/ansi-admin/pull/5)
