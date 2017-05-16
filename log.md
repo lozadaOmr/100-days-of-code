@@ -115,3 +115,16 @@ relationship works.
 
 * [Playbooks Directory](https://github.com/lozadaOmr/ansi-admin/pull/5)
 * [Ansible Registry](https://github.com/lozadaOmr/ansi-admin/pull/7)
+
+___
+### Day 7: May 16, 2017
+
+**Today's Progress**: Continued working with Django Models
+
+**Thoughts**: Tried removing some parts since I can't fully express why it was
+needed in the first place. After awhile, I managed to rationalize why I them.
+Teardown was an important part of reflection on which is which.
+
+**Link to work**:
+
+* [Ansible App](https://github.com/lozadaOmr/ansi-admin/tree/feature/ansible-app)
