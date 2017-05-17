@@ -128,3 +128,14 @@ Teardown was an important part of reflection on which is which.
 **Link to work**:
 
 * [Ansible App](https://github.com/lozadaOmr/ansi-admin/tree/feature/ansible-app)
+
+___
+### Day 8: May 17, 2017
+
+**Today's Progress**: Continue work on Django Models
+
+**Thoughts**: Started to get comfortable with Django Models after almost 3 days
+
+**Link to work**:
+
+* [Ansible App](https://github.com/lozadaOmr/ansi-admin/tree/feature/ansible-app)
