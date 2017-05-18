@@ -139,3 +139,15 @@ ___
 **Link to work**:
 
 * [Ansible App](https://github.com/lozadaOmr/ansi-admin/tree/feature/ansible-app)
+
+___
+### Day 9: May 18, 2017
+
+**Today's Progress**: Create a Repository model to store Git Repo of Playbooks
+template
+
+**Thoughts**: For now I should handle public GitHub repos
+
+**Link to work**:
+
+ * [Ansible App](https://github.com/lozadaOmr/ansi-admin/tree/feature/ansible-app)
