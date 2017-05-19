@@ -151,3 +151,17 @@ template
 **Link to work**:
 
  * [Ansible App](https://github.com/lozadaOmr/ansi-admin/tree/feature/ansible-app)
+
+ ___
+### Day 10: May 19, 2017
+
+ **Today's Progress**: Started working on Repository app
+
+ **Thoughts**: Use repository app to trigger clone of Playbook from GitHub
+ Got stuck troubleshooting a bug
+
+Thinking of continuing working on Repository app in a different branch
+
+ **Link to work**:
+
+ * [Ansible App](https://github.com/lozadaOmr/ansi-admin/tree/feature/ansible-app)
