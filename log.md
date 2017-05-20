@@ -165,3 +165,17 @@ Thinking of continuing working on Repository app in a different branch
  **Link to work**:
 
  * [Ansible App](https://github.com/lozadaOmr/ansi-admin/tree/feature/ansible-app)
+
+ ___
+### Day 11: May 20, 2017
+
+ **Today's Progress**: Testing out GitPython for cloning git repositories
+
+ **Thoughts**: Spent most of the time going through documentation. 
+ Trying to 'git clone' from Django.
+
+ Realized there are other ways to clone a git repository.
+
+ **Link to work**:
+
+* [Repository App](https://github.com/lozadaOmr/ansible-admin/tree/feature/repository-app)
