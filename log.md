@@ -179,3 +179,14 @@ Thinking of continuing working on Repository app in a different branch
  **Link to work**:
 
 * [Repository App](https://github.com/lozadaOmr/ansible-admin/tree/feature/repository-app)
+
+___
+### Day 12: May 21, 2017
+
+**Today's Progress**: Continue  working on Repository App
+
+**Thoughts**: Somehow playbook mounted volume is not elegant
+
+**Link to work**:
+
+* [Repository App](https://github.com/lozadaOmr/ansible-admin/pull/11)
