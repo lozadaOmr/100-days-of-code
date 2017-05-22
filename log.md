@@ -190,3 +190,15 @@ ___
 **Link to work**:
 
 * [Repository App](https://github.com/lozadaOmr/ansible-admin/pull/11)
+
+___
+### Day 13: May 22, 2017
+
+**Today's Progress**: Bug Fix on Repository App
+
+**Thoughts**: Just need to figure out how to override Django Admin's bulk delete
+method
+
+**Link to work**:
+
+* [Repository App](https://github.com/lozadaOmr/ansible-admin/tree/cleanup/repository-app)
