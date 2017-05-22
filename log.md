@@ -212,7 +212,8 @@ ___
 admin's bulk delete.
 
 Recent error encountered was caused by QuerySet not being first.
+Maybe I should file issues if I encounter bugs on my projects for documentation.
 
 **Link to work**:
 
-* [Repository App]()
+* [Repository App](https://github.com/lozadaOmr/ansible-admin/pull/12)
