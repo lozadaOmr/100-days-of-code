@@ -202,3 +202,17 @@ method
 **Link to work**:
 
 * [Repository App](https://github.com/lozadaOmr/ansible-admin/tree/cleanup/repository-app)
+
+___
+### Day 14: May 23, 2017
+
+**Today's Progress**: Finally Fixed bug on Repository app's bulk delete
+
+**Thoughts**: Learned how to use QuerySet as manager to override Django
+admin's bulk delete.
+
+Recent error encountered was caused by QuerySet not being first.
+
+**Link to work**:
+
+* [Repository App]()
