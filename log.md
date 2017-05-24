@@ -215,4 +215,15 @@ Recent error encountered was caused by QuerySet not being first.
 
 **Link to work**:
 
-* [Repository App]()
+* [Repository App](https://github.com/lozadaOmr/ansible-admin/pull/12)
+
+___
+### Day 15: May 24, 2017
+
+**Today's Progress**: Tried to implement Abstract Base class
+
+**Thoughts**: Suprised it worked.
+
+**Link to work**:
+
+* [Abstract Base Class](https://github.com/lozadaOmr/ansible-admin/pull/14)
