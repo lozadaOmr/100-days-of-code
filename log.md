@@ -228,3 +228,15 @@ ___
 **Link to work**:
 
 * [Abstract Base Class](https://github.com/lozadaOmr/ansible-admin/pull/14)
+
+___
+### Day 16: May 25, 2017
+
+**Today's Progress**: Some fixes on Ansible app. Started working with forms and
+custom templates
+
+**Thoughts**: 
+
+**Link to work**:
+
+* [Ansible App Fix](https://github.com/lozadaOmr/ansible-admin/pull/15)
