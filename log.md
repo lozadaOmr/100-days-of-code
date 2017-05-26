@@ -240,3 +240,15 @@ custom templates
 **Link to work**:
 
 * [Ansible App Fix](https://github.com/lozadaOmr/ansible-admin/pull/15)
+
+___
+### Day 17: May 26, 2017
+
+**Today's Progress**: Initial implementation of GitLab repository
+
+**Thoughts**: Tried first implementing using ssh, which result in error.
+Implementation for now would use https instead
+
+**Link to work**:
+
+* [Gitlab class](https://github.com/lozadaOmr/ansible-admin/pull/16)
