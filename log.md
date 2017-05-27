@@ -252,3 +252,16 @@ Implementation for now would use https instead
 **Link to work**:
 
 * [Gitlab class](https://github.com/lozadaOmr/ansible-admin/pull/16)
+
+___
+### Day 18: May 27, 2017
+
+**Today's Progress**: Started working on es-curator module for Ansible
+
+**Thoughts**: Need to take a break from Django. Decided to take a break and start
+another Python project that I might be using soon. Spent most of the time
+reading through Ansible's developer documentation
+
+**Link to work**:
+
+* [es-curator module](https://github.com/lozadaOmr/es-curator/commit/896428cd0888f4ad6a5ed2973086eb468681f549)
