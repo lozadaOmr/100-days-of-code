@@ -265,3 +265,15 @@ reading through Ansible's developer documentation
 **Link to work**:
 
 * [es-curator module](https://github.com/lozadaOmr/es-curator/commit/896428cd0888f4ad6a5ed2973086eb468681f549)
+
+---
+### Day 19: May 28, 2017
+
+**Today's Progress**: Conitnue working on es-curator module for Ansible
+
+**Thoughts**: Initially thought of adding `dry_run` args; but realized it should
+be in line with Ansible's `--check` flag (Thinking of implementing later)
+
+**Link to work**:
+
+* [es curator ansible module]() 
