@@ -276,4 +276,16 @@ be in line with Ansible's `--check` flag (Thinking of implementing later)
 
 **Link to work**:
 
-* [es curator ansible module]() 
+* [ES-Curator Ansible Module](https://github.com/lozadaOmr/es-curator)
+
+___
+### Day 20: May 29, 2017
+
+**Today's Progress**: Worked through most functionality of es-curator module
+
+**Thoughts**: `import subprocess` is different from `from subprocess import ...`
+Just need to make Popen() work and the module would be usable-ish
+
+**Link to work**:
+
+* [ES-Curator Ansible Module](https://github.com/lozadaOmr/es-curator/tree/use-subprocess-popen)
