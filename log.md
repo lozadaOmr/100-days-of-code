@@ -289,3 +289,14 @@ Just need to make Popen() work and the module would be usable-ish
 **Link to work**:
 
 * [ES-Curator Ansible Module](https://github.com/lozadaOmr/es-curator/tree/use-subprocess-popen)
+
+___
+### Day 21: May 30, 2017
+
+**Today's Progress**: Managed to complete es-curator module
+
+**Thoughts**: Finally managed to get it working, thanks to this [guide](http://sharats.me/the-ever-useful-and-neat-subprocess-module.html)
+
+**Link to work**:
+
+* [ES-Curator Ansible Module](https://github.com/lozadaOmr/es-curator/pull/1)
