@@ -293,10 +293,17 @@ Just need to make Popen() work and the module would be usable-ish
 ___
 ### Day 21: May 30, 2017
 
-**Today's Progress**: Managed to complete es-curator module
+**Today's Progress**:
+- Managed to complete es-curator module
+- Refactor validation
+- Add support for `check_mode (dry-run)`
+- Add RETURN block for Ansible docs
 
 **Thoughts**: Finally managed to get it working, thanks to this [guide](http://sharats.me/the-ever-useful-and-neat-subprocess-module.html)
 
 **Link to work**:
 
-* [ES-Curator Ansible Module](https://github.com/lozadaOmr/es-curator/pull/1)
+* [ES-Curator Ansible Module](https://github.com/lozadaOmr/es-curator/)
+* [RETURN block](https://github.com/lozadaOmr/es-curator/pull/4)
+* [Refactor Validation](https://github.com/lozadaOmr/es-curator/pull/3)
+* [Support check_mode](https://github.com/lozadaOmr/es-curator/pull/2)
