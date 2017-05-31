@@ -307,3 +307,23 @@ ___
 * [RETURN block](https://github.com/lozadaOmr/es-curator/pull/4)
 * [Refactor Validation](https://github.com/lozadaOmr/es-curator/pull/3)
 * [Support check_mode](https://github.com/lozadaOmr/es-curator/pull/2)
+
+
+___
+### Day 22: May 31, 2017
+
+**Today's Progress**: Fix an [issue](https://github.com/lozadaOmr/es-curator/issues/5) where an error was not raised if 
+remote host doesn't have curator's config yaml on the default location.
+
+**Thoughts**: I initially intended to use Ansible's `setup_facts` to get the remote Host's
+HOME directory. Today I learned, same can be achieved using Python
+
+```
+import getpass
+
+homedir = getpass.getuser()
+```
+
+**Link to work**:
+
+* [ES Curator Ansible Module Fix](https://github.com/lozadaOmr/es-curator/pull/6)
