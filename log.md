@@ -327,3 +327,20 @@ homedir = getpass.getuser()
 **Link to work**:
 
 * [ES Curator Ansible Module Fix](https://github.com/lozadaOmr/es-curator/pull/6)
+
+___
+### Day 23: June 01, 2017
+
+**Today's Progress**: 
+
+* Work on validating if curator is installed on remote host.
+* Use AnsibleModule's `run_command()`
+
+**Thoughts**: Appreciate Python, and it's capability to interact with OS.
+Also, instead of using Python's Popen() -- just used Ansible's `run_command()` which
+is a wrapper for Python's Popen()
+
+**Link to work**:
+
+* [Ansible run_commnad](https://github.com/lozadaOmr/es-curator/pull/8)
+* [Check if curator is installed](https://github.com/lozadaOmr/es-curator/pull/7)
