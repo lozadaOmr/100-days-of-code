@@ -308,7 +308,6 @@ ___
 * [Refactor Validation](https://github.com/lozadaOmr/es-curator/pull/3)
 * [Support check_mode](https://github.com/lozadaOmr/es-curator/pull/2)
 
-
 ___
 ### Day 22: May 31, 2017
 
@@ -344,3 +343,15 @@ is a wrapper for Python's Popen()
 
 * [Ansible run_commnad](https://github.com/lozadaOmr/es-curator/pull/8)
 * [Check if curator is installed](https://github.com/lozadaOmr/es-curator/pull/7)
+
+___
+### Day 24: June 02, 2017
+
+**Today's Progress**: Rewrite ES-curator's `main()` func to run validations first.
+
+**Thoughts**: Spent today trying to rewrite the `validate()` and 
+`get_default_config()`command into one. But couldn't figure out how.
+
+**Link to work**:
+
+* [ES-curator Ansible Module](https://github.com/lozadaOmr/es-curator/pull/9)
