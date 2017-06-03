@@ -355,3 +355,15 @@ ___
 **Link to work**:
 
 * [ES-curator Ansible Module](https://github.com/lozadaOmr/es-curator/pull/9)
+
+___
+### Day 25: June 03, 2017
+
+**Today's Progress**: Move ansi-admin's Repository app to Ansible app
+
+**Thoughts**: Getting confused how to do multiple apps, decided that in order to move forward
+just combine both apps.
+
+**Link to work**:
+
+* [ansi-admin](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
