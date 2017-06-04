@@ -367,3 +367,14 @@ just combine both apps.
 **Link to work**:
 
 * [ansi-admin](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
+
+___
+### Day 26: June 04, 2017
+
+**Today's Progress**: Back to creating HTML forms and pages
+
+**Thoughts**: Reading through lots of documentation between Django's template/forms and Jinja2 template.
+
+**Link to work**:
+
+* [ansi-admin](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
