@@ -52,13 +52,13 @@ directory between container and host. Not elegant but it should work.~~
 ---
 ### Day 3: May 12, 2017
 
-**Today's Progress**: Made some proof of concept so that Ansible Playbooks 
+**Today's Progress**: Made some proof of concept so that Ansible Playbooks
 from Djago Admin
 
 **Thoughts**: Options that I can further explore Python `os.system` eventually
 I think I would need implement celery.
 
-**Links to work**: 
+**Links to work**:
 
 * [ansi-admin registry](https://hub.docker.com/r/lozadaomr/ansi-admin/tags/)
 * [Ansible Django Integration](https://github.com/lozadaOmr/ansi-admin/tree/feature/django-ansible-integration)
@@ -171,7 +171,7 @@ Thinking of continuing working on Repository app in a different branch
 
  **Today's Progress**: Testing out GitPython for cloning git repositories
 
- **Thoughts**: Spent most of the time going through documentation. 
+ **Thoughts**: Spent most of the time going through documentation.
  Trying to 'git clone' from Django.
 
  Realized there are other ways to clone a git repository.
@@ -235,7 +235,7 @@ ___
 **Today's Progress**: Some fixes on Ansible app. Started working with forms and
 custom templates
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link to work**:
 
@@ -311,7 +311,7 @@ ___
 ___
 ### Day 22: May 31, 2017
 
-**Today's Progress**: Fix an [issue](https://github.com/lozadaOmr/es-curator/issues/5) where an error was not raised if 
+**Today's Progress**: Fix an [issue](https://github.com/lozadaOmr/es-curator/issues/5) where an error was not raised if
 remote host doesn't have curator's config yaml on the default location.
 
 **Thoughts**: I initially intended to use Ansible's `setup_facts` to get the remote Host's
@@ -330,7 +330,7 @@ homedir = getpass.getuser()
 ___
 ### Day 23: June 01, 2017
 
-**Today's Progress**: 
+**Today's Progress**:
 
 * Work on validating if curator is installed on remote host.
 * Use AnsibleModule's `run_command()`
@@ -349,7 +349,7 @@ ___
 
 **Today's Progress**: Rewrite ES-curator's `main()` func to run validations first.
 
-**Thoughts**: Spent today trying to rewrite the `validate()` and 
+**Thoughts**: Spent today trying to rewrite the `validate()` and
 `get_default_config()`command into one. But couldn't figure out how.
 
 **Link to work**:
@@ -378,3 +378,19 @@ ___
 **Link to work**:
 
 * [ansi-admin](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
+
+___
+### Day 27: June 05, 2017
+
+**Today's Progress**: Manage to make the form use Bootstrap CSS
+
+**Thoughts**: Had to remember though Flask also used Jinja templating there would be some difference compared to Django.
+Django needs `{% load staticfiles %}` while for when I was using Flask static file URL was
+hardcoded.
+
+Maybe checkout using Form Wizard to handle multi-step forms.
+
+**Link to work**:
+
+* [ansi-admin](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
+
