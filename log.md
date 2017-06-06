@@ -394,3 +394,13 @@ Maybe checkout using Form Wizard to handle multi-step forms.
 
 * [ansi-admin](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
 
+___
+### Day 28: June 06, 2017
+
+**Today's Progress**: Save data from Django custom form
+
+**Thoughts**: Intially attempted to create forms from ModelForm but for now could not make it to work
+
+**Link to work**:
+
+* [ansi-admin](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
