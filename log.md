@@ -404,3 +404,14 @@ ___
 **Link to work**:
 
 * [ansi-admin](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
+
+___
+### Day 29: June 07, 2017
+
+**Today's Progress**: Fix error when deleting non-existing directory
+
+**Thoughts**: Busy day, exactly got one hour, decided to fix bug instead.
+
+**Link to work**:
+
+* [Fix OS Error - Ansi Admin](https://github.com/lozadaOmr/ansible-admin/pull/20)
