@@ -415,3 +415,15 @@ ___
 **Link to work**:
 
 * [Fix OS Error - Ansi Admin](https://github.com/lozadaOmr/ansible-admin/pull/20)
+
+___
+### Day 30: June 08, 2017
+
+**Today's Progress**: Started learning to use Django's formtools
+
+**Thoughts**: Finally making steady progress a few more and I might be comfortable using
+forms and templates with Django, although it was a lot of documentation to read
+
+**Link to work**:
+
+* [Django's formtools](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
