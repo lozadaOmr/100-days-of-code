@@ -427,3 +427,14 @@ forms and templates with Django, although it was a lot of documentation to read
 **Link to work**:
 
 * [Django's formtools](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
+
+___
+### Day 31: June 09, 2017
+
+**Today's Progress**: Finally figured out how to pass previous input to current form
+
+**Thoughts**:
+
+**Link to work**:
+
+* [Working with Django's formtools](https://github.com/lozadaOmr/ansible-admin/commit/343e310d9938a7b192cc72de6969bd74938f334d)
