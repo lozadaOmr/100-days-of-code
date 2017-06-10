@@ -438,3 +438,17 @@ ___
 **Link to work**:
 
 * [Working with Django's formtools](https://github.com/lozadaOmr/ansible-admin/commit/343e310d9938a7b192cc72de6969bd74938f334d)
+
+___
+### Day 32: June 10, 2017
+
+**Today's Progress**: Managed to save finish the basic flow of saving two models using Django Form Wizard
+
+**Thoughts**:
+
+* Learned how it is much simple to use ModelForm when working with Form Wizard, it is a much DRY approach than
+coding again the fields of the model in forms.py
+
+**Link to work**:
+
+* [Django ModelForm](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
