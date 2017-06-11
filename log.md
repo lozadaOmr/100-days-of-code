@@ -452,3 +452,17 @@ coding again the fields of the model in forms.py
 **Link to work**:
 
 * [Django ModelForm](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
+
+___
+### Day 33: June 11, 2017
+
+**Today's Progress**: Save form data on each Form step
+
+**Thoughts**: Instead of using `SessionWizardView.done()` to save forms tried hooking it up on
+`SessionWizardView.get_form_step_data()` (Not yet even sure if this is what I should be doing). 
+I figured I just need a way to traverse the repository directory to provide the files when
+user is on PlaybookWizard step 2.
+
+**Link to work**:
+
+* [Django ModelForm](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
