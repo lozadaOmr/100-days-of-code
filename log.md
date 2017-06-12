@@ -466,3 +466,20 @@ user is on PlaybookWizard step 2.
 **Link to work**:
 
 * [Django ModelForm](https://github.com/lozadaOmr/ansible-admin/tree/feature/add-custom-views)
+
+___
+### Day 34: June 12, 2017
+
+**Today's Progress**: Add validation check if inventory file exist when creating playbook
+
+**Thoughts**: First method attempt to implement was trying to hook it up on `forms.py`,
+Later found that much better to be included in `models.py`.
+
+Not sure if this should be moved into its own custom `Validators`
+But for now you can't save the playbook if the inventory file you supplied does not exists.
+
+Additional Validation should follow
+
+**Link to work**:
+
+* [Check if Ansible inventory exists](https://github.com/lozadaOmr/ansible-admin/pull/26)
