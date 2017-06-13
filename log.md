@@ -483,3 +483,15 @@ Additional Validation should follow
 **Link to work**:
 
 * [Check if Ansible inventory exists](https://github.com/lozadaOmr/ansible-admin/pull/26)
+
+___
+### Day 35: June 13, 2017
+
+**Today's Progress**: Add validation check if repository directory exist when creating repository
+
+**Thoughts**: Was hoping to make the `ValidationError` display on the page, but got some weird results when
+I tried to implement the same pattern with how validated the inventory file of the playbook.
+
+**Link to work**:
+
+* [Check if Ansible repository exists](https://github.com/lozadaOmr/ansible-admin/pull/27)
