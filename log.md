@@ -495,3 +495,14 @@ I tried to implement the same pattern with how validated the inventory file of t
 **Link to work**:
 
 * [Check if Ansible repository exists](https://github.com/lozadaOmr/ansible-admin/pull/27)
+
+___
+### Day 36: June 14, 2017
+
+**Today's Progress**: Experiement on different Validation and Exception methods in Django
+
+**Thoughts**: Today I learned you can also have `clean()` in forms.py
+
+**Link to work**:
+
+* [ValidationErrors in ansible-admin](https://github.com/lozadaOmr/ansible-admin/tree/rewrite-check-repository-exists)
