@@ -506,3 +506,15 @@ ___
 **Link to work**:
 
 * [ValidationErrors in ansible-admin](https://github.com/lozadaOmr/ansible-admin/tree/rewrite-check-repository-exists)
+
+___
+### Day 37: June 15, 2017
+
+**Today's Progress**: Tried implementing valadition on forms.py `clean_*()`
+ 
+**Thoughts**: Still not getting the desired output, might need to check Validators next
+
+**Link to work**:
+
+* [ValidationErrors in ansible-admin](https://github.com/lozadaOmr/ansible-admin/tree/rewrite-check-repository-exists)
+
