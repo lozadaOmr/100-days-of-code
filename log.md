@@ -518,3 +518,19 @@ ___
 
 * [ValidationErrors in ansible-admin](https://github.com/lozadaOmr/ansible-admin/tree/rewrite-check-repository-exists)
 
+___
+### Day 38: June 16, 2017
+
+**Today's Progress**: Simpler check_repository_exists() method
+ 
+**Thoughts**: Still don't know why `os.path.exists()` returns `True` for some reason.
+Learned that specific validators should be implemented in the form's `clean_<FIELD NAME>()`,
+because running it on the ModelForm's `clean()` method will result in being run for each field you have in the model.
+
+Interesting thing happened is when you realize not everything should be inside an [IF statement block]
+(https://github.com/lozadaOmr/ansible-admin/commit/934d1ad76dc3f2ffba9abf0cfe11450ab592cb86)
+
+**Link to work**:
+
+* [ValidationErrors in ansible-admin](https://github.com/lozadaOmr/ansible-admin/tree/rewrite-check-repository-exists)
+
