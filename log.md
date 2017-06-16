@@ -527,8 +527,7 @@ ___
 Learned that specific validators should be implemented in the form's `clean_<FIELD NAME>()`,
 because running it on the ModelForm's `clean()` method will result in being run for each field you have in the model.
 
-Interesting thing happened is when you realize not everything should be inside an [IF statement block]
-(https://github.com/lozadaOmr/ansible-admin/commit/934d1ad76dc3f2ffba9abf0cfe11450ab592cb86)
+Interesting thing happened is when you realize not everything should be inside an [IF statement block](https://github.com/lozadaOmr/ansible-admin/commit/934d1ad76dc3f2ffba9abf0cfe11450ab592cb86)
 
 **Link to work**:
 
