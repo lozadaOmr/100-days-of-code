@@ -533,3 +533,17 @@ Interesting thing happened is when you realize not everything should be inside a
 
 * [ValidationErrors in ansible-admin](https://github.com/lozadaOmr/ansible-admin/tree/rewrite-check-repository-exists)
 
+___
+### Day 39: June 17, 2017
+
+**Today's Progress**: Experimenting on how to handle this kind of custom validation
+ 
+**Thoughts**: Checked that when running `self.instance.check_repository_exists()` in the `forms.py`
+`self.reposiory` was blank making the method return only the `setting.PLAYBOOK_DIR` which result in a
+`True`-thy value (because settings.PLAYBOOK_DIR actually exist).
+
+Might actually resolve to moving validation to a separate `validators.py`
+
+**Link to work**:
+
+* [ValidationErrors in ansible-admin](https://github.com/lozadaOmr/ansible-admin/tree/rewrite-check-repository-exists)
