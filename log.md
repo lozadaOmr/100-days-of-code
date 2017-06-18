@@ -547,3 +547,22 @@ Might actually resolve to moving validation to a separate `validators.py`
 **Link to work**:
 
 * [ValidationErrors in ansible-admin](https://github.com/lozadaOmr/ansible-admin/tree/rewrite-check-repository-exists)
+
+___
+### Day 40: June 18, 2017
+
+**Today's Progress**: Tried using `NamedUrlWizardView`
+ 
+**Thoughts**: Things got frustrating managed to fix the validationerror return always `True`
+by using `self.cleaned_data['repository']` instead of `self.repository`.
+
+The problem now is after submitting the step2 form, it redirects to step1. Raising 'repository exist' validation error.
+Even though both form data where saved. What is strange is i'm reaching the `done()` method.
+
+It could be because I save the form data for every step.
+Or something with the `models.py`'s `save()` getting messed up.
+
+**Link to work**:
+
+* [ValidationErrors in ansible-admin](https://github.com/lozadaOmr/ansible-admin/tree/rewrite-check-repository-exists)
+
