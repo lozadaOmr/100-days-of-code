@@ -566,3 +566,14 @@ Or something with the `models.py`'s `save()` getting messed up.
 
 * [ValidationErrors in ansible-admin](https://github.com/lozadaOmr/ansible-admin/tree/rewrite-check-repository-exists)
 
+___
+### Day 41: June 19, 2017
+
+**Today's Progress**: Thinking problem might be to having multiple model, rewrite all into one to test
+ 
+**Thoughts**: Not much time to code, got caught up with work.
+
+**Link to work**:
+
+* [Model Rewrite](https://github.com/lozadaOmr/ansible-admin/tree/unified-model-rewrite)
+
