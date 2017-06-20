@@ -577,3 +577,13 @@ ___
 
 * [Model Rewrite](https://github.com/lozadaOmr/ansible-admin/tree/unified-model-rewrite)
 
+___
+### Day 42: June 20, 2017
+
+**Today's Progress**: Revisit previous solution continue moving methods to forms.py
+ 
+**Thoughts**:
+
+**Link to work**:
+
+* [Model Rewrite](https://github.com/lozadaOmr/ansible-admin/commit/a274cc89047e1b7cbd28b278bfac9e79cf88f271)
