@@ -587,3 +587,15 @@ ___
 **Link to work**:
 
 * [Model Rewrite](https://github.com/lozadaOmr/ansible-admin/commit/a274cc89047e1b7cbd28b278bfac9e79cf88f271)
+
+
+___
+### Day 43: June 21, 2017
+
+**Today's Progress**: Done moving methods from `models.py` to `forms.py`
+ 
+**Thoughts**: Trying to figure out where to hook my clone_repository() method
+
+**Link to work**:
+
+* [Model Rewrite](https://github.com/lozadaOmr/ansible-admin/commits/unified-model-rewrite)
