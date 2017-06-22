@@ -610,3 +610,14 @@ ___
 **Link to work**:
 
 * [Model Rewrite](https://github.com/lozadaOmr/ansible-admin/pull/29)
+
+___
+### Day 45: June 23, 2017
+
+**Today's Progress**: Finally completed migration by moving it to `views.py`
+ 
+**Thoughts**:
+
+**Link to work**:
+
+* [Migrate validations](https://github.com/lozadaOmr/ansible-admin/pull/32)
