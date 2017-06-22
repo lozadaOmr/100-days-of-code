@@ -588,7 +588,6 @@ ___
 
 * [Model Rewrite](https://github.com/lozadaOmr/ansible-admin/commit/a274cc89047e1b7cbd28b278bfac9e79cf88f271)
 
-
 ___
 ### Day 43: June 21, 2017
 
@@ -599,3 +598,15 @@ ___
 **Link to work**:
 
 * [Model Rewrite](https://github.com/lozadaOmr/ansible-admin/commits/unified-model-rewrite)
+
+___
+### Day 44: June 22, 2017
+
+**Today's Progress**: After asking around got an idea on how to make work, by moving it all to
+`views.py` in `done()` method.
+ 
+**Thoughts**:
+
+**Link to work**:
+
+* [Model Rewrite](https://github.com/lozadaOmr/ansible-admin/pull/29)
