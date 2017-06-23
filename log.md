@@ -616,7 +616,8 @@ ___
 
 **Today's Progress**: Finally completed migration by moving it to `views.py`
  
-**Thoughts**:
+**Thoughts**: Decided to code early in the morning. Makes a lot of difference
+rather than rushing to find a solution before the day ends.
 
 **Link to work**:
 
