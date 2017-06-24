@@ -622,3 +622,16 @@ rather than rushing to find a solution before the day ends.
 **Link to work**:
 
 * [Migrate validations](https://github.com/lozadaOmr/ansible-admin/pull/32)
+
+___
+### Day 46: June 24, 2017
+
+**Today's Progress**: Move methods to `utils` file
+ 
+**Thoughts**: Not entirely Django related reading, but more of general Python.
+[An opinionated guide to Python](http://python-guide-pt-br.readthedocs.io/en/latest/writing/structure/)
+
+**Link to work**:
+
+* [Utils](https://github.com/lozadaOmr/ansible-admin/pull/33)
+
