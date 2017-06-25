@@ -635,3 +635,13 @@ ___
 
 * [Utils](https://github.com/lozadaOmr/ansible-admin/pull/33)
 
+___
+### Day 47: June 25, 2017
+
+**Today's Progress**: Started working on custom auth pages
+ 
+**Thoughts**: 
+
+**Link to work**:
+
+* [Custom Auth Pages](https://github.com/lozadaOmr/ansible-admin/tree/feature/custom-login)
