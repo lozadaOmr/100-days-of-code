@@ -645,3 +645,15 @@ ___
 **Link to work**:
 
 * [Custom Auth Pages](https://github.com/lozadaOmr/ansible-admin/tree/feature/custom-login)
+
+
+___
+### Day 48: June 26, 2017
+
+**Today's Progress**: Learned to make use of Django AUTH
+ 
+**Thoughts**: Yup, good thing I don't have to roll-my-own authentication for now.
+
+**Link to work**:
+
+* [Custom Auth Pages](https://github.com/lozadaOmr/ansible-admin/tree/feature/custom-login)
