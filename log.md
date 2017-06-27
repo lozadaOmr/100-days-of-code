@@ -657,3 +657,14 @@ ___
 **Link to work**:
 
 * [Custom Auth Pages](https://github.com/lozadaOmr/ansible-admin/tree/feature/custom-login)
+
+___
+### Day 49: June 27, 2017
+
+**Today's Progress**: Redirect authenticated user
+ 
+**Thoughts**: 
+
+**Link to work**:
+
+* [Custom Auth Pages](https://github.com/lozadaOmr/ansible-admin/tree/feature/custom-login)
