@@ -668,3 +668,14 @@ ___
 **Link to work**:
 
 * [Custom Auth Pages](https://github.com/lozadaOmr/ansible-admin/tree/feature/custom-login)
+
+___
+### Day 50: June 28, 2017
+
+**Today's Progress**: Started using Django's Generic Views
+ 
+**Thoughts**: Started on a new feature. A bit tired, will continue work tomorrow.
+
+**Link to work**:
+
+* [Playbook directory traversal](https://github.com/lozadaOmr/ansible-admin/tree/feature/traverse-playbook-directory)
