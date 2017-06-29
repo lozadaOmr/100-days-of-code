@@ -679,3 +679,18 @@ ___
 **Link to work**:
 
 * [Playbook directory traversal](https://github.com/lozadaOmr/ansible-admin/tree/feature/traverse-playbook-directory)
+
+___
+### Day 51: June 29, 2017
+
+**Today's Progress**: Worked on `list_playbook_files()` that would display yaml files in current playbook dir
+ 
+**Thoughts**: 
+
+* fixed issue on 'create' uri being parsed as `pk`
+* added link to playbook detailed view
+* also decided to save directory as full-path
+
+**Link to work**:
+
+* [Playbook directory traversal](https://github.com/lozadaOmr/ansible-admin/tree/feature/traverse-playbook-directory)
