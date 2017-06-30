@@ -694,3 +694,14 @@ ___
 **Link to work**:
 
 * [Playbook directory traversal](https://github.com/lozadaOmr/ansible-admin/tree/feature/traverse-playbook-directory)
+
+___
+### Day 52: June 30, 2017
+
+**Today's Progress**: Learned working with Jinja templates in Django
+ 
+**Thoughts**: Was not feeling enthusiastic today.
+
+**Link to work**:
+
+* [Playbook directory traversal](https://github.com/lozadaOmr/ansible-admin/tree/feature/traverse-playbook-directory)
