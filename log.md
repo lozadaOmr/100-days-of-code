@@ -709,19 +709,10 @@ ___
 ___
 ### Day 53: July 01, 2017
 
-**Today's Progress**: Learned working with Jinja templates in Django
+**Today's Progress**: Display Playbook File contents in Django. Test on STDOUT
  
-**Thoughts**: Was not feeling enthusiastic today.
+**Thoughts**: DJANGO REGEX URLS is HARD. Me SAD.
 
 **Link to work**:
 
-* [Display Playbook File Contents](___
-### Day 52: June 30, 2017
-
-**Today's Progress**: Managed to display a Playbook file's content in STDOUT for testing
- 
-**Thoughts**: Still having trouble working with regex in Django's urls
-
-**Link to work**:
-
-* [Playbook directory traversal](https://github.com/lozadaOmr/ansible-admin/tree/feature/traverse-playbook-directory)
+* [Display Playbook File Contents](https://github.com/lozadaOmr/ansible-admin/commits/feature/display-playbook-content)
