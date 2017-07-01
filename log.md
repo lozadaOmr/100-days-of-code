@@ -705,3 +705,23 @@ ___
 **Link to work**:
 
 * [Playbook directory traversal](https://github.com/lozadaOmr/ansible-admin/tree/feature/traverse-playbook-directory)
+
+___
+### Day 53: July 01, 2017
+
+**Today's Progress**: Learned working with Jinja templates in Django
+ 
+**Thoughts**: Was not feeling enthusiastic today.
+
+**Link to work**:
+
+* [Display Playbook File Contents](___
+### Day 52: June 30, 2017
+
+**Today's Progress**: Managed to display a Playbook file's content in STDOUT for testing
+ 
+**Thoughts**: Still having trouble working with regex in Django's urls
+
+**Link to work**:
+
+* [Playbook directory traversal](https://github.com/lozadaOmr/ansible-admin/tree/feature/traverse-playbook-directory)
