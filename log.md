@@ -716,3 +716,14 @@ ___
 **Link to work**:
 
 * [Display Playbook File Contents](https://github.com/lozadaOmr/ansible-admin/commits/feature/display-playbook-content)
+
+___
+### Day 54: July 02, 2017
+
+**Today's Progress**: Trying out different ways to display YAML file content to view
+ 
+**Thoughts**: First attempt result in content being display but line breaks where not preserved
+
+**Link to work**:
+
+* [Display Playbook File Contents](https://github.com/lozadaOmr/ansible-admin/commits/feature/display-playbook-content)
