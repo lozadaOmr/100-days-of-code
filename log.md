@@ -727,3 +727,17 @@ ___
 **Link to work**:
 
 * [Display Playbook File Contents](https://github.com/lozadaOmr/ansible-admin/commits/feature/display-playbook-content)
+
+___
+### Day 55: July 03, 2017
+
+**Today's Progress**: Included `content_type` in `HttpResponse()`
+ 
+**Thoughts**: Was expecting to that in order make it work, I'd have to install some other Django app.
+Or maybe use some advance template/view methods. Apparently it was just as simple as including the `content_type`
+
+**Reference**: [Serve a text file](https://stackoverflow.com/questions/14503062/how-do-i-serve-a-text-file-from-django)
+
+**Link to work**:
+
+* [Display Playbook File Contents](https://github.com/lozadaOmr/ansible-admin/commits/feature/display-playbook-content)
