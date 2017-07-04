@@ -741,3 +741,14 @@ Or maybe use some advance template/view methods. Apparently it was just as simpl
 **Link to work**:
 
 * [Display Playbook File Contents](https://github.com/lozadaOmr/ansible-admin/commits/feature/display-playbook-content)
+
+___
+### Day 56: July 04, 2017
+
+**Today's Progress**: Started working with how to run playbook files
+ 
+**Thoughts**:
+
+**Link to work**:
+
+* [Run Playbook Files](https://github.com/lozadaOmr/ansible-admin/tree/feature/run-playbook-files)
