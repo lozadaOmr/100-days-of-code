@@ -757,3 +757,14 @@ ___
 ### Day 57: July 05, 2017
  
 **Thoughts**: Missed chance to code. Due to lot of tasks at work.
+
+___
+### Day 58: July 06, 2017
+
+**Today's Progress**: Working on Django templates and views to run selected playbook file
+ 
+**Thoughts**:
+
+**Link to work**:
+
+* [Run Playbook Files](https://github.com/lozadaOmr/ansible-admin/tree/feature/run-playbook-files)
