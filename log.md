@@ -768,3 +768,14 @@ ___
 **Link to work**:
 
 * [Run Playbook Files](https://github.com/lozadaOmr/ansible-admin/tree/feature/run-playbook-files)
+
+___
+### Day 59: July 07, 2017
+
+**Today's Progress**: Prepared ansi-admin docker image with Ansible
+ 
+**Thoughts**: Spent time solving trivial issue. I forgot to include Ansible in the container build
+
+**Link to work**:
+
+* [Run Playbook Files](https://github.com/lozadaOmr/ansible-admin/tree/feature/run-playbook-files)
