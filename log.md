@@ -783,10 +783,10 @@ ___
 ___
 ### Day 60: July 08, 2017
 
-**Today's Progress**: Use python subprocess to run ansible-playbook commands
+**Today's Progress**: Completed simple POC for running Ansible using subprocess
  
 **Thoughts**:
 
 **Link to work**:
 
-* [Run Playbook Files](https://github.com/lozadaOmr/ansible-admin/tree/feature/run-playbook-files)
+* [Complete Playbook Files](https://github.com/lozadaOmr/ansible-admin/pull/37)
