@@ -790,3 +790,14 @@ ___
 **Link to work**:
 
 * [Complete Playbook Files](https://github.com/lozadaOmr/ansible-admin/pull/37)
+
+___
+### Day 61: July 09, 2017
+
+**Today's Progress**: Wanted to test a new feature, where progress of playbook run is streamed to view
+ 
+**Thoughts**:
+
+**Link to work**:
+
+* [Display STDOUT to View](https://github.com/lozadaOmr/ansible-admin/commit/4eaa969fc0f20b01a05c0d20a40aff771ff261e7)
