@@ -801,3 +801,9 @@ ___
 **Link to work**:
 
 * [Display STDOUT to View](https://github.com/lozadaOmr/ansible-admin/commit/4eaa969fc0f20b01a05c0d20a40aff771ff261e7)
+
+___
+### Day 62: July 10, 2017
+
+**Thoughts**: Was too tired and haven't got a sleep. Went to take a nap after work. 
+ 
