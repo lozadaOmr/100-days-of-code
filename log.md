@@ -807,3 +807,7 @@ ___
 
 **Thoughts**: Was too tired and haven't got a sleep. Went to take a nap after work. 
  
+___
+### Day 63: July 11, 2017
+
+**Thoughts**: Was not able to code today either. Too tired :( 
