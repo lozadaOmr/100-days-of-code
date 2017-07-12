@@ -811,3 +811,14 @@ ___
 ### Day 63: July 11, 2017
 
 **Thoughts**: Was not able to code today either. Too tired :( 
+
+___
+### Day 64: July 12, 2017
+
+**Today's Progress**: Testing how to use StreamingHttpResponse with STDOUT to view
+ 
+**Thoughts**:
+
+**Link to work**:
+
+* [Display STDOUT to View](https://github.com/lozadaOmr/ansible-admin/commit/7c2dc1d5a29651fa7c1f544e88a2ed25de52b595)
