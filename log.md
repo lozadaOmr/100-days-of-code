@@ -822,3 +822,14 @@ ___
 **Link to work**:
 
 * [Display STDOUT to View](https://github.com/lozadaOmr/ansible-admin/commit/7c2dc1d5a29651fa7c1f544e88a2ed25de52b595)
+
+___
+### Day 65: July 13, 2017
+
+**Today's Progress**: Started learning about Django Tests
+ 
+**Thoughts**: Decided to work on something different in the meantime, I don't think streaming STDOUT is handled soley using python.
+
+**Link to work**:
+
+* [Django Unit Test](https://github.com/lozadaOmr/ansible-admin/commit/1ba0c1f87bbb79f13a8ee0ce8525692d35266037)
