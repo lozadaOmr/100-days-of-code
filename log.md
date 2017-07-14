@@ -833,3 +833,14 @@ ___
 **Link to work**:
 
 * [Django Unit Test](https://github.com/lozadaOmr/ansible-admin/commit/1ba0c1f87bbb79f13a8ee0ce8525692d35266037)
+
+___
+### Day 66: July 14, 2017
+
+**Today's Progress**: Learned more about testing structure in Django
+ 
+**Thoughts**: Originally tried using sqlite3 for testing. Decided to just use root database password for dev testing instead.
+
+**Link to work**:
+
+* [Django Unit Test - Models](https://github.com/lozadaOmr/ansible-admin/commit/e39d37ddb26f97ec8d93acb7e8d1ad9e1699c11b)
