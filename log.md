@@ -844,3 +844,14 @@ ___
 **Link to work**:
 
 * [Django Unit Test - Models](https://github.com/lozadaOmr/ansible-admin/commit/e39d37ddb26f97ec8d93acb7e8d1ad9e1699c11b)
+
+___
+### Day 67: July 15, 2017
+
+**Today's Progress**: Created tests for Views in Django
+ 
+**Thoughts**: 
+
+**Link to work**:
+
+* [Django Unit Test - Views](https://github.com/lozadaOmr/ansible-admin/commit/39b0cfe15c2e0409e134cabd8fc48c42154bb359)
