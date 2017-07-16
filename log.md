@@ -855,3 +855,14 @@ ___
 **Link to work**:
 
 * [Django Unit Test - Views](https://github.com/lozadaOmr/ansible-admin/commit/39b0cfe15c2e0409e134cabd8fc48c42154bb359)
+
+___
+### Day 68: July 16, 2017
+
+**Today's Progress**: Created tests for Forms in Django
+ 
+**Thoughts**: 
+
+**Link to work**:
+
+* [Django Unit Test - Views](https://github.com/lozadaOmr/ansible-admin/commit/8427eb485d64a97e09a0f77e84beeade605fcd9c)
