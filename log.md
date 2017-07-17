@@ -865,4 +865,15 @@ ___
 
 **Link to work**:
 
-* [Django Unit Test - Views](https://github.com/lozadaOmr/ansible-admin/commit/8427eb485d64a97e09a0f77e84beeade605fcd9c)
+* [Django Unit Test - Forms](https://github.com/lozadaOmr/ansible-admin/commit/8427eb485d64a97e09a0f77e84beeade605fcd9c)
+
+___
+### Day 69: July 17, 2017
+
+**Today's Progress**: Test form validation errors in Django
+ 
+**Thoughts**: 
+
+**Link to work**:
+
+* [Django Unit Test - Forms](https://github.com/lozadaOmr/ansible-admin/commit/fe2271846ed7a73f1e4e7a2f3d7fef8a1f92a166)
