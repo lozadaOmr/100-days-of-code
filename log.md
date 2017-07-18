@@ -877,3 +877,14 @@ ___
 **Link to work**:
 
 * [Django Unit Test - Forms](https://github.com/lozadaOmr/ansible-admin/commit/fe2271846ed7a73f1e4e7a2f3d7fef8a1f92a166)
+
+___
+### Day 70: July 18, 2017
+
+**Today's Progress**: Test custom utils
+ 
+**Thoughts**: 
+
+**Link to work**:
+
+* [Django Unit Test - Utils]https://github.com/lozadaOmr/ansible-admin/commit/8d74aa7fa22ed878199dfb8ad887d89e3b46dda9)
