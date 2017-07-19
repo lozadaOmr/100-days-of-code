@@ -887,4 +887,18 @@ ___
 
 **Link to work**:
 
-* [Django Unit Test - Utils]https://github.com/lozadaOmr/ansible-admin/commit/8d74aa7fa22ed878199dfb8ad887d89e3b46dda9)
+* [Django Unit Test - Utils](https://github.com/lozadaOmr/ansible-admin/commit/8d74aa7fa22ed878199dfb8ad887d89e3b46dda9)
+
+___
+### Day 71: July 19, 2017
+
+**Today's Progress**: Test custom util validators
+ 
+**Thoughts**: 
+
+**Link to work**:
+
+* [Django Unit Test - Validators](https://github.com/lozadaOmr/ansible-admin/commit/b705695b39c8845a33d360158a9b93fd8be06e00)
+* [Django Unit Test - Use setUp()](https://github.com/lozadaOmr/ansible-admin/commit/68f53afbb8e020a2fb2f852eb720ebe2c492e867)
+* [Django Unit Test - Use self.playbook](https://github.com/lozadaOmr/ansible-admin/commit/8f5286b37cbc8118e0f3ee5ca810b0a808d4aa6b)
+
