@@ -902,3 +902,14 @@ ___
 * [Django Unit Test - Use setUp()](https://github.com/lozadaOmr/ansible-admin/commit/68f53afbb8e020a2fb2f852eb720ebe2c492e867)
 * [Django Unit Test - Use self.playbook](https://github.com/lozadaOmr/ansible-admin/commit/8f5286b37cbc8118e0f3ee5ca810b0a808d4aa6b)
 
+___
+### Day 72: July 20, 2017
+
+**Today's Progress**: Went back to making test for Views
+ 
+**Thoughts**: 
+
+**Link to work**:
+
+* [Django Unit Test - Views](https://github.com/lozadaOmr/ansible-admin/commit/b705695b39c8845a33d360158a9b93fd8be06e00)
+(https://github.com/lozadaOmr/ansible-admin/commit/c2aa6a48bbbf33abbb82a1dbc7dc10cd83594b1a)
