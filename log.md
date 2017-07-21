@@ -911,5 +911,15 @@ ___
 
 **Link to work**:
 
-* [Django Unit Test - Views](https://github.com/lozadaOmr/ansible-admin/commit/b705695b39c8845a33d360158a9b93fd8be06e00)
-(https://github.com/lozadaOmr/ansible-admin/commit/c2aa6a48bbbf33abbb82a1dbc7dc10cd83594b1a)
+* [Django Unit Test - Views](https://github.com/lozadaOmr/ansible-admin/commit/c2aa6a48bbbf33abbb82a1dbc7dc10cd83594b1a)
+
+___
+### Day 73: July 21, 2017
+
+**Today's Progress**: Started working with integration tests
+
+**Thoughts**: not sure if this will work though.
+
+**Link to work**:
+
+* [Django Unit Test - Integration](https://github.com/lozadaOmr/ansible-admin/commit/453b25c302969c2f550514a39b5abfd7fdb37bbe)
