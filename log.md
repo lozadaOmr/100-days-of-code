@@ -923,3 +923,16 @@ ___
 **Link to work**:
 
 * [Django Unit Test - Integration](https://github.com/lozadaOmr/ansible-admin/commit/453b25c302969c2f550514a39b5abfd7fdb37bbe)
+
+___
+### Day 74: July 22, 2017
+
+**Today's Progress**: Fixed some error when running unit tests
+
+**Thoughts**: Can figure out how to perform integration test, decided to fix some unit test error instead.
+
+Need to think of a better to setup tests, which include probably mocking OS level operations (create directory etc.)
+
+**Link to work**:
+
+* [Django Unit Test - Fixes](https://github.com/lozadaOmr/ansible-admin/commit/016d53467b39b7c3ae4f7e9969d65a7b58cb5f55)
