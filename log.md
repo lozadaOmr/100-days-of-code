@@ -936,3 +936,14 @@ Need to think of a better to setup tests, which include probably mocking OS leve
 **Link to work**:
 
 * [Django Unit Test - Fixes](https://github.com/lozadaOmr/ansible-admin/commit/016d53467b39b7c3ae4f7e9969d65a7b58cb5f55)
+
+___
+### Day 75: July 23, 2017
+
+**Today's Progress**: Attempt to use Python mock library
+
+**Thoughts**: Tried learning to use python mock library, but can't make it to work
+
+**Link to work**:
+
+* [Django Unit Test - Remove invalid tests](https://github.com/lozadaOmr/ansible-admin/commit/ea68fa1f1150d33e3c8d6bccf11621b41206bdc2)
