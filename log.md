@@ -947,3 +947,16 @@ ___
 **Link to work**:
 
 * [Django Unit Test - Remove invalid tests](https://github.com/lozadaOmr/ansible-admin/commit/ea68fa1f1150d33e3c8d6bccf11621b41206bdc2)
+
+___
+### Day 76: August 13, 2017
+
+**Today's Progress**: Worked on making local Playbook files editable
+
+**Thoughts**: After taking 20 days to rest *(Some unfortunate stuff happened, resulting me being burnt out)*. Decided it's about time to go back and start coding again.
+
+I think I may have to adjust some of the rules that I will be following for round 2.
+
+**Link to work**:
+
+* [Django - Editable Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/168d385325b77937dd40e77ae166f29610c9a137)
