@@ -960,3 +960,14 @@ I think I may have to adjust some of the rules that I will be following for roun
 **Link to work**:
 
 * [Django - Editable Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/168d385325b77937dd40e77ae166f29610c9a137)
+
+___
+### Day 77: August 14, 2017
+
+**Today's Progress**: Continue working on Editable Playbook files, improve code using utils.
+
+**Thoughts**: 
+
+**Link to work**:
+
+* [Django - Editable Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/99d3bb14a8caa6b303da1178411a74ed372bb735)
