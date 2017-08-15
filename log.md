@@ -971,3 +971,14 @@ ___
 **Link to work**:
 
 * [Django - Editable Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/99d3bb14a8caa6b303da1178411a74ed372bb735)
+
+___
+### Day 78: August 15, 2017
+
+**Today's Progress**: Spent time trying to figure out to properly display TextArea
+
+**Thoughts**: For now it is as hardcoded as `attrs`
+
+**Link to work**:
+
+* [Django - Editable Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/269bd116c1900eb3ceef9a9abec84354734932ea)
