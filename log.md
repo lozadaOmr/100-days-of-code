@@ -982,3 +982,14 @@ ___
 **Link to work**:
 
 * [Django - Editable Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/269bd116c1900eb3ceef9a9abec84354734932ea)
+
+___
+### Day 79: August 16, 2017
+
+**Today's Progress**: Working saving changes to local file in the server
+
+**Thoughts**:
+
+**Link to work**:
+
+* [Django - Editable Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/500d67256d59edaa5da49a7419d668252256b3b2)
