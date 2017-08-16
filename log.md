@@ -988,8 +988,8 @@ ___
 
 **Today's Progress**: Working saving changes to local file in the server
 
-**Thoughts**:
+**Thoughts**: 
 
 **Link to work**:
 
-* [Django - Editable Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/500d67256d59edaa5da49a7419d668252256b3b2)
+* [Django - Editable Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/580c06185fb602a5d5e5a4736dadea9a5cb8b993)
