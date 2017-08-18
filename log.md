@@ -1002,7 +1002,7 @@ ___
 ___
 ### Day 81: August 18, 2017
 
-**Today's Progress**: Manage to write chages to local file in the server
+**Today's Progress**: Manage to write changes to local file in the server
 
 **Thoughts**: 
 
