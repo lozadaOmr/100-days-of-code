@@ -993,3 +993,9 @@ ___
 **Link to work**:
 
 * [Django - Editable Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/580c06185fb602a5d5e5a4736dadea9a5cb8b993)
+
+___
+### Day 80: August 17, 2017
+
+**Today's Progress**: Missed day 80
+
