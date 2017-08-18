@@ -999,3 +999,13 @@ ___
 
 **Today's Progress**: Missed day 80
 
+___
+### Day 81: August 18, 2017
+
+**Today's Progress**: Manage to write chages to local file in the server
+
+**Thoughts**: 
+
+**Link to work**:
+
+* [Django - Editable Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/e8d2521a4487fa57dd2b1cb5e8e217eaf068ee1c)
