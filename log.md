@@ -1009,3 +1009,14 @@ ___
 **Link to work**:
 
 * [Django - Editable Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/e8d2521a4487fa57dd2b1cb5e8e217eaf068ee1c)
+
+___
+### Day 82: August 19, 2017
+
+**Today's Progress**: Move everything to a util function, keeps the views neat.
+
+**Thoughts**: 
+
+**Link to work**:
+
+* [Django - Editable Playbook files Utils](https://github.com/lozadaOmr/ansible-admin/tree/bb9d7fe6bbb3cb0e49755541aef31aa796bdcd7b)
