@@ -1020,3 +1020,15 @@ ___
 **Link to work**:
 
 * [Django - Editable Playbook files Utils](https://github.com/lozadaOmr/ansible-admin/tree/bb9d7fe6bbb3cb0e49755541aef31aa796bdcd7b)
+
+
+___
+### Day 83: August 20, 2017
+
+**Today's Progress**: Adding new feature to create playbookfiles and save locally
+
+**Thoughts**: Working  again on Django templates, views, forms, urls. I think this would be a good exercise to familiarize with the flow.
+
+**Link to work**:
+
+* [Django - Add Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/223cb7dcf1e613311c681cbccbd0131b28f0d081)
