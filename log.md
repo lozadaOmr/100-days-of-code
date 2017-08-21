@@ -1021,7 +1021,6 @@ ___
 
 * [Django - Editable Playbook files Utils](https://github.com/lozadaOmr/ansible-admin/tree/bb9d7fe6bbb3cb0e49755541aef31aa796bdcd7b)
 
-
 ___
 ### Day 83: August 20, 2017
 
@@ -1032,3 +1031,14 @@ ___
 **Link to work**:
 
 * [Django - Add Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/223cb7dcf1e613311c681cbccbd0131b28f0d081)
+
+___
+### Day 84: August 21, 2017
+
+**Today's Progress**: Continue working feature to create playbookfiles and save locally
+
+**Thoughts**: Struggled working with URL conf, not sure why I can't use Jinja tag like `{% url 'ansible:playbook-file-create' pk %}` even when I know the regex is like so `r'^(?P<pk>[-\w]+)/files/new/$'`. For a moment I thought it was how I arranged the URls but still got the error, temporary solution was to use hardcode URLs in the form
+
+**Link to work**:
+
+* [Django - Add Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/3c7bdea1c71503c78bae027ad2e0199d24349542)
