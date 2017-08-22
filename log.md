@@ -1042,3 +1042,14 @@ ___
 **Link to work**:
 
 * [Django - Add Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/3c7bdea1c71503c78bae027ad2e0199d24349542)
+
+___
+### Day 85: August 22, 2017
+
+**Today's Progress**: Saved form POST to local file
+
+**Thoughts**: Thinking of rewriting this part, seemed there are better ways of doing it.
+
+**Link to work**:
+
+* [Django - Add Playbook files](https://github.com/lozadaOmr/ansible-admin/commit/d858a6d2eddff4f37f93e2218409ce3245d7b130)
