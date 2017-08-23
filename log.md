@@ -1053,3 +1053,14 @@ ___
 **Link to work**:
 
 * [Django - Add Playbook files](https://github.com/lozadaOmr/ansible-admin/commit/d858a6d2eddff4f37f93e2218409ce3245d7b130)
+
+___
+### Day 86: August 23, 2017
+
+**Today's Progress**: Move some code to utils
+
+**Thoughts**: I think I should revist writing tests for some of the new features I created recently
+
+**Link to work**:
+
+* [Django - Add Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/414c4fd6ef28f1135d0c49774b6910f8d25363b4)
