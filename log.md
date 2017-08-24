@@ -1064,3 +1064,14 @@ ___
 **Link to work**:
 
 * [Django - Add Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/414c4fd6ef28f1135d0c49774b6910f8d25363b4)
+
+___
+### Day 87: August 24, 2017
+
+**Today's Progress**: Added some unit tests for Playbook utils
+
+**Thoughts**:
+
+**Link to work**:
+
+* [Django - Add Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/cd324ec0c94dff349e95c85c95d6726acfb4291a)
