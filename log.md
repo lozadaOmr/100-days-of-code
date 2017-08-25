@@ -1085,4 +1085,4 @@ ___
 
 **Link to work**:
 
-* [Django - Add Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/72fac582266f34212f533f15a3f1ccaaa6e00392)
+* [Django - Validating Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/72fac582266f34212f533f15a3f1ccaaa6e00392)
