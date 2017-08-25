@@ -1075,3 +1075,14 @@ ___
 **Link to work**:
 
 * [Django - Add Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/cd324ec0c94dff349e95c85c95d6726acfb4291a)
+
+___
+### Day 88: August 25, 2017
+
+**Today's Progress**: Worked on validating the filename of the newly created Playbook file
+
+**Thoughts**:
+
+**Link to work**:
+
+* [Django - Add Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/72fac582266f34212f533f15a3f1ccaaa6e00392)
