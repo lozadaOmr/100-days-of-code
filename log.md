@@ -1086,3 +1086,9 @@ ___
 **Link to work**:
 
 * [Django - Validating Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/72fac582266f34212f533f15a3f1ccaaa6e00392)
+
+___
+### Day 89: August 26, 2017
+
+**Today's Progress**: Away from coding for today. Long weekend it is.
+
