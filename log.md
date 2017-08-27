@@ -1092,3 +1092,13 @@ ___
 
 **Today's Progress**: Away from coding for today. Long weekend it is.
 
+___
+### Day 90: August 27, 2017
+
+**Today's Progress**: Completed Adding form validation  
+
+**Thoughts**:
+
+**Link to work**:
+
+* [Django - Validating Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/42ed07889652c3c4e56e69398f9ef8541c3a148b)
