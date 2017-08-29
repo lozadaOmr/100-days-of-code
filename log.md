@@ -1102,3 +1102,19 @@ ___
 **Link to work**:
 
 * [Django - Validating Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/42ed07889652c3c4e56e69398f9ef8541c3a148b)
+
+___
+### Day 91: August 28, 2017
+
+**Today's Progress**: Away from coding for today.
+
+___
+### Day 92: August 29, 2017
+
+**Today's Progress**: Fixed bug where error message is displayed for each field
+
+**Thoughts**: Not yet sure why `{{ form.as_p }}` rendered it properly. Might need to get back at it and figure out why
+
+**Link to work**:
+
+* [Django - Validating Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/be7cbb57f1cf40f5a4a39269e144ed9538e461fa)
