@@ -1118,3 +1118,14 @@ ___
 **Link to work**:
 
 * [Django - Validating Playbook files](https://github.com/lozadaOmr/ansible-admin/tree/be7cbb57f1cf40f5a4a39269e144ed9538e461fa)
+
+___
+### Day 93: August 30, 2017
+
+**Today's Progress**: Made ansible views.py into PEP8 code style
+
+**Thoughts**: There seems to be a Python PEP8 and also Django's coding style PEP8
+
+**Link to work**:
+
+* [Django - PEP8](https://github.com/lozadaOmr/ansible-admin/tree/52ab9de98f337de489bd8e4cad696c9301a35246)
