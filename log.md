@@ -1129,3 +1129,14 @@ ___
 **Link to work**:
 
 * [Django - PEP8](https://github.com/lozadaOmr/ansible-admin/tree/52ab9de98f337de489bd8e4cad696c9301a35246)
+
+___
+### Day 94: August 31, 2017
+
+**Today's Progress**: Continued applying PEP8 code style
+
+**Thoughts**:
+
+**Link to work**:
+
+* [Django - PEP8](https://github.com/lozadaOmr/ansible-admin/tree/221488aff3e2628d304cc3d19dad2c0e5d5a9106)
