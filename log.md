@@ -1140,3 +1140,14 @@ ___
 **Link to work**:
 
 * [Django - PEP8](https://github.com/lozadaOmr/ansible-admin/tree/221488aff3e2628d304cc3d19dad2c0e5d5a9106)
+
+___
+### Day 95: September 01, 2017
+
+**Today's Progress**: Continued applying PEP8 code style
+
+**Thoughts**: Discovered that one of the tests failed. I might have to check why it failed next.
+
+**Link to work**:
+
+* [Django - PEP8](https://github.com/lozadaOmr/ansible-admin/tree/abedc8b4ad17bc745df5cc1e04b7cf09250a051b)
