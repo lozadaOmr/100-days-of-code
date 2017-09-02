@@ -1157,7 +1157,11 @@ ___
 
 **Today's Progress**: Bug when running all unit tests
 
-**Thoughts**:
+**Thoughts**: Manage to narrow it down to both `test_models.py` and `test_views.py` since both use `setUpTestData()` I'm thinking it could be because after the set up is ran on when of the TestCase it doesn't tear down.
+
+Options to validate this is idea I think:
+- a function that will act as global setup
+- probably look into using fixtures instead
 
 **Link to work**:
 
