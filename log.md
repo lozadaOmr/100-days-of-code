@@ -1151,3 +1151,14 @@ ___
 **Link to work**:
 
 * [Django - PEP8](https://github.com/lozadaOmr/ansible-admin/tree/abedc8b4ad17bc745df5cc1e04b7cf09250a051b)
+
+___
+### Day 96: September 02, 2017
+
+**Today's Progress**: Bug when running all unit tests
+
+**Thoughts**:
+
+**Link to work**:
+
+* [Django - Fix Unit Test](https://github.com/lozadaOmr/ansible-admin/tree/5e0f881a366f49421cd6f05ac0da02494d957872)
