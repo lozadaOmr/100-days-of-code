@@ -1166,3 +1166,14 @@ Options to validate this is idea I think:
 **Link to work**:
 
 * [Django - Fix Unit Test](https://github.com/lozadaOmr/ansible-admin/tree/5e0f881a366f49421cd6f05ac0da02494d957872)
+
+___
+### Day 97: September 03, 2017
+
+**Today's Progress**: Use fixture to load initial data for unit tests
+
+**Thoughts**:
+
+**Link to work**:
+
+* [Django - Fix Unit Test](https://github.com/lozadaOmr/ansible-admin/tree/8d711705bf4d5e1fb247d44f5999892e2a0df5ed)e 
