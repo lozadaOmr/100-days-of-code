@@ -1176,4 +1176,4 @@ ___
 
 **Link to work**:
 
-* [Django - Fix Unit Test](https://github.com/lozadaOmr/ansible-admin/tree/8d711705bf4d5e1fb247d44f5999892e2a0df5ed)e 
+* [Django - Fix Unit Test](https://github.com/lozadaOmr/ansible-admin/tree/8d711705bf4d5e1fb247d44f5999892e2a0df5ede) 
