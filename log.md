@@ -1177,3 +1177,14 @@ ___
 **Link to work**:
 
 * [Django - Fix Unit Test](https://github.com/lozadaOmr/ansible-admin/tree/8d711705bf4d5e1fb247d44f5999892e2a0df5ede) 
+
+___
+### Day 98: September 09, 2017
+
+**Today's Progress**: Add Button to create playbook in GenericList View
+
+**Thoughts**:
+
+**Link to work**:
+
+* [Django - Link Create Playbook URL](https://github.com/lozadaOmr/ansible-admin/tree/87cfaf252f4122f40c5e0ec7bca9778119221451) 
