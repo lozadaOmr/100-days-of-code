@@ -1187,4 +1187,15 @@ ___
 
 **Link to work**:
 
-* [Django - Link Create Playbook URL](https://github.com/lozadaOmr/ansible-admin/tree/87cfaf252f4122f40c5e0ec7bca9778119221451) 
+* [Django - Link Create Playbook URL](https://github.com/lozadaOmr/ansible-admin/tree/87cfaf252f4122f40c5e0ec7bca9778119221451)
+
+___
+### Day 99: September 10, 2017
+
+**Today's Progress**: Add Button to Delete Playbook
+
+**Thoughts**:
+
+**Link to work**:
+
+* [Django - Link Delete Playbook](https://github.com/lozadaOmr/ansible-admin/tree/0dc2354ef375768f884b4078758325b68f37de09)
