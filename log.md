@@ -1199,3 +1199,14 @@ ___
 **Link to work**:
 
 * [Django - Link Delete Playbook](https://github.com/lozadaOmr/ansible-admin/tree/0dc2354ef375768f884b4078758325b68f37de09)
+
+___
+### Day 99: September 10, 2017
+
+**Today's Progress**: Complete Delete Playbook function
+
+**Thoughts**: TIL - Working with Django [forms](https://docs.djangoproject.com/en/1.11/topics/forms/) use **GET/POST**
+
+**Link to work**:
+
+* [Django - Link Delete Playbook](https://github.com/lozadaOmr/ansible-admin/tree/9ac1170b8f692c5406b3805abd4f388f6b8060df)
