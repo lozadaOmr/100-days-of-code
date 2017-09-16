@@ -1201,7 +1201,7 @@ ___
 * [Django - Link Delete Playbook](https://github.com/lozadaOmr/ansible-admin/tree/0dc2354ef375768f884b4078758325b68f37de09)
 
 ___
-### Day 99: September 10, 2017
+### Day 100: September 10, 2017
 
 **Today's Progress**: Complete Delete Playbook function
 
